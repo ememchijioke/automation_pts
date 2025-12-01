@@ -1,3 +1,5 @@
+# Beginner automation script to save and load multiple clipboard entries
+
 import sys
 import pyperclip as clipboard  
 import json
@@ -47,6 +49,3 @@ if len(sys.argv) == 2:
 else:
     print("Please pass exactly one command")
             
-#data = pyperclip.paste()
-#print(data)
-
