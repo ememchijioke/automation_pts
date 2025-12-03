@@ -5,9 +5,9 @@ This repository contains a collection of small to medium Python automation tools
 Each project is contained in its own folder with a README describing its purpose and usage.
 
 ## Projects
-Folder: `multiclipboard/`
+[`multiclipboard`](./multiclipboard)
 A simple local clipboard automation project that allows saving and loading text snippets with Python.
 
-Folder: `WeatherFetcher/`
+[`WeatherFetcher`](./WeatherFetcher)
 A command-line tool that fetches real-time weather data using the OpenWeatherMap API.  
 It supports `.env` API key loading, logs outputs to CSV, and includes error handling.
